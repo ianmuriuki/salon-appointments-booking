@@ -23,5 +23,5 @@ Welcome to the **Penguins Salon** repository! This website allows users to explo
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/penguins-salon.git
+   git clone https://github.com/ianmuriuki/penguins-salon.git
    cd penguins-salon
